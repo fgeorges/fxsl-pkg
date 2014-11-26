@@ -1,7 +1,7 @@
 fxsl-pkg
 ========
 
-Package builder for the FXSL library.
+Package builder for the [FXSL](http://fxsl.sourceforge.net/) library.
 
 This project is used to create a package out of FXSL.  It does not
 contain the sources of FXSL themselves, but needs them to be built.
